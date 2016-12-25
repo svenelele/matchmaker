@@ -8,6 +8,6 @@ different game types: objective oriented (bomb/search and destroy), deathmatch, 
 1. Join your favorite game
 2. Create a lobby (1-5 depending on game format) persons.
 3. Join a public lobby or enter a solo-queue of the game/game type.
-4. Player ranking on each game and game type (different algorythm on different game/game types).
+4. Player ranking on each game and game type (different algorithm on different game/game types).
 5. Create leagues/competition brackets.
 6. Server log-parser - parsing log files of each game server and reporting player statistics.
