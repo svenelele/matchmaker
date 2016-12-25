@@ -1,13 +1,3 @@
-from flask import Flask
-app = Flask(__name__)
-
-@app.route("/")
-def hello():
-    return "Hello World!"
-
-if __name__ == "__main__":
-    app.run()
-[root@fb7963091ba2 my_application]# cat server.py
 # Import your application as:
 # from app import application
 # Example:
